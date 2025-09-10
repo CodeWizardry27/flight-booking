@@ -1,0 +1,1 @@
+ImageTk.PhotoImage(file="flight.jpg")
